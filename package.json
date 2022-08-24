@@ -1,0 +1,16 @@
+{
+  "name": "common-cli",
+  "version": "1.0.0",
+  "description": "a common cli",
+  "bin": {
+    "common-cli": "bin/index.js" 
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "chenlei",
+  "email": "chenlei@lazyaudio.com",
+  "license": "ISC"
+}
